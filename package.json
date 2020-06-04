@@ -1,0 +1,23 @@
+{
+  "name": "jobscrapper",
+  "version": "1.0.0",
+  "description": "A job listing scrapper web",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "job",
+    "jobscrapper"
+  ],
+  "author": "yenisbel valle",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
