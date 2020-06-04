@@ -6,7 +6,7 @@ body.index .search-ribbon {
   flex-shrink: 0;
   padding: 20px 30px;
   box-sizing: border-box;
-      height: 75.2vh;
+  height: 75.2vh;
 }
 
 body.index .search-ribbon form {
@@ -48,4 +48,8 @@ body.search .search-ribbon {
 
 dialog.mdl-dialog {
   width: 50%;
+}
+
+h4{
+  margin: 2% 50%;
 }
