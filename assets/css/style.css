@@ -50,6 +50,7 @@ dialog.mdl-dialog {
   width: 50%;
 }
 
-h4{
-  margin: 2% 50%;
+.mdl-layout__link, a{
+  text-decoration: none;
+  color: #ffffff;
 }
